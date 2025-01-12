@@ -30,7 +30,7 @@ requirements.txt — список необходимых библиотек.
 
 TinyBERT для анализа текстового содержимого страниц.
 Random Forest Classifier для анализа структурных признаков URL.
-Ссылки на модели:
+Ссылка на модели: `https://drive.google.com/drive/folders/10oIYFJDF_rrpgru4l1cgiZSIeVVJbUZq?usp=sharing`
 
 TinyBERT
 Multilayer perceptron
