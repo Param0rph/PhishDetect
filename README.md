@@ -10,14 +10,14 @@ requirements.txt — список необходимых библиотек.
 ⚙️ Установка и запуск сервера
 
 Клонируйте репозиторий:
-git clone https://github.com/your_username/anti-phishing-module.git  
-cd anti-phishing-module
+`git clone https://github.com/your_username/anti-phishing-module.git`  
+`cd anti-phishing-module`
 
 Установите зависимости:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Запустите сервер:
-python server.py
+`python server.py`
 
 🌐 Установка браузерного расширения
 Перейдите в chrome://extensions/ в браузере Google Chrome.
