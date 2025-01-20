@@ -30,6 +30,7 @@ requirements.txt — список необходимых библиотек.
 
 TinyBERT для анализа текстового содержимого страниц.  
 Random Forest Classifier для анализа структурных признаков URL.  
+  
 Ссылка на модели: `https://drive.google.com/drive/folders/10oIYFJDF_rrpgru4l1cgiZSIeVVJbUZq?usp=sharing`  
 
 Скачайте модели и поместите их в ту же папку, что и server.py.  
