@@ -35,11 +35,11 @@ Random Forest Classifier для анализа структурных призн
 Скачайте модели и поместите их в ту же папку, что и server.py.
 
 📜 Стек технологий
-Python 3.12
-Flask
-Pickle
-Langdetect
-Re
-NLTK
-JavaScript
+Python 3.12,
+Flask,
+Pickle,
+Langdetect,
+Re,
+NLTK,
+JavaScript,
 Google Chrome API
