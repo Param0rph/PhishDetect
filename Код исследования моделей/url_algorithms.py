@@ -11,9 +11,9 @@ import time
 from tabulate import tabulate
 
 # Загрузка данных
-df = pd.read_csv('dataset2_final6.csv')
+df = pd.read_csv('dataset.csv')
 
-# Оставляем нужные колонки
+# Список параметров
 columns_to_use = [
     'length_url', 'length_hostname', 'ip', 'nb_dots', 'nb_hyphens', 'nb_at', 'nb_qm', 'nb_and',
     'nb_or', 'nb_eq', 'nb_underscore', 'nb_tilde', 'nb_percent', 'nb_slash', 'nb_star', 'nb_colon',
